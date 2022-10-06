@@ -1,0 +1,1 @@
+Ejercicio que simula el comportamiento del comando cat 😊
